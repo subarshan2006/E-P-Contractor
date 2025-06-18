@@ -2378,15 +2378,15 @@ section,
   right: 20px;
   top: 50%;
   text-align: center;
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
   border-radius: 50%;
   background-color: rgb(64, 233, 64);
   animation: wobble 3s infinite;
 }
  
 .Whats-apps i {
-  font-size: 70px;
+  font-size: 55px;
   color: white;
 }
 
@@ -2396,15 +2396,15 @@ section,
   right: 20px;
   top: 25%;
   text-align: center;
-  height: 95px;
-  width: 95px;
+  height: 80px;
+  width: 80px;
   border-radius: 15%;
   background-color: rgb(64, 233, 64);
   animation: wobble 3s infinite;
 }
  
 .call-logs i {
-  font-size: 70px;
+  font-size: 60px;
   color: white;
 }
 
